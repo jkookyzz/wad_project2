@@ -15,6 +15,7 @@
 			<option value="Option2">-</option>
 			<option value="Option3">*</option>
 		</select>
-		<button type="submit" class="btn btn-primary">Hitung</button>
+		<button type="submit" class="btn btn-primary">calculate</button>
 	</form>
+</body>
 </html>
